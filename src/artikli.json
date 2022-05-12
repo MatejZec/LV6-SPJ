@@ -1,0 +1,25 @@
+[{
+			"Id": "1",
+			"Naziv": "Olovka",
+			"Proizvodac": "Faber-Castell",
+			"Model": "HB",
+			"Cijena": 9.99,
+			"Kolicina": 0
+		},
+		{
+			"Id": "2",
+			"Naziv": "Kalkulator",
+			"Proizvodac": "Casio",
+			"Model": "Class Wiz 77",
+			"Cijena": 259.99,
+			"Kolicina": 5
+		},
+		{
+			"Id": "3",
+			"Naziv": "Majica",
+			"Proizvodac": "Nike",
+			"Model": "Just do nothing",
+			"Cijena": 65.00,
+			"Kolicina": 18
+		}
+	]
